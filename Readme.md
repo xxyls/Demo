@@ -1,1 +1,2 @@
-#Demo
+使用pycharm+python完成的scrapy框架的爬虫
+可以爬取豆瓣电影的数据
